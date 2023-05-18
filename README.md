@@ -1,6 +1,6 @@
 ### Hi, I am Martin 👋
 
-I am passionate about Artificial Intelligence. I am highly interested and committed to the study and development of AI systems and technologies. I have a strong understanding of the fundamental concepts of AI, including machine learning, computer vision, and natural language processing, and I am continually looking for new ways to apply these concepts to practical problems. In general, I am excited by the possibilities and potential of AI to improve human life and have a passion for figuring out how to do it.
+I am passionate about Artificial Intelligence. I am highly interested and committed to the study and development of AI systems and technologies. I have a strong understanding of the fundamental concepts of AI, including machine learning, computer vision, and natural language processing, and I am continually looking for new ways to apply these concepts to practical problems. In general, I am excited by the possibilities and potential of AI to improve human life and have a passion for figuring out how to do it
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
