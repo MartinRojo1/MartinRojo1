@@ -1,4 +1,4 @@
-### Hi, I am Martin 👋
+### Hi, I'm Martin 👋
 
 I am passionate about Artificial Intelligence. I am highly interested and committed to the study and development of AI systems and technologies. I have a strong understanding of the fundamental concepts of AI, including machine learning, computer vision, and natural language processing, and I am continually looking for new ways to apply these concepts to practical problems. In general, I am excited by the possibilities and potential of AI to improve human life and have a passion for figuring out how to do it
 
